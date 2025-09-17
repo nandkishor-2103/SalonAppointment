@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nandkishor</groupId>
-    <artifactId>notes-management</artifactId>
+    <artifactId>user-service</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>Notes Management</name>
-    <description>Spring Boot Notes Management Project</description>
+    <description>salon appointment system</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
